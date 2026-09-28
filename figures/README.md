@@ -1,12 +1,12 @@
 # Figures
 
-This folder contains selected visualizations and evaluation figures from the stroke risk prediction project.
+This folder contains selected visualizations used to present the workflow, optimization strategy, and model evaluation results of the stroke risk prediction project.
 
-Figures may include:
+Included figures:
 
 - Project workflow
+- Hyperparameter search strategy
 - Model performance comparison
 - Confusion matrix
 - ROC curve
-- Hyperparameter optimization results
 - Exploratory data analysis visualizations
