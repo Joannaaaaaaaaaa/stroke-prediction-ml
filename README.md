@@ -10,7 +10,7 @@ The project covers data preprocessing, exploratory data analysis, model training
 
 ## Project Workflow
 
-![Project Workflow](figures/project_workflow.png)
+![Project Workflow](figures/project_workflow.jpg)
 
 ## Tech Stack
 
