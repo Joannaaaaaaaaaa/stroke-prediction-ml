@@ -17,7 +17,5 @@ The project covers data preprocessing, exploratory data analysis, model training
 - SMOTE
 - XGBoost
 - Optuna
-- Hyperopt
-- Ray Tune
 - Matplotlib
 - Seaborn
