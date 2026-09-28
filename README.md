@@ -17,7 +17,7 @@ The project covers data preprocessing, exploratory data analysis, model training
 A staged hyperparameter search strategy was applied using Optuna to progressively refine the searching space and improve model performance.
 
 <p align="center">
-  <img src="figures/hyperparameter_search_strategy.jpg" width="600">
+  <img src="figures/hyperparameter_search_strategy.jpg">
 </p>
 
 ## Tech Stack
