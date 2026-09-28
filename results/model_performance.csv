@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-score,Specificity,MCC,AUC
+KNN,,,,,,,
+SVM,,,,,,,
+Decision Tree,,,,,,,
+Random Forest,,,,,,,
+XGBoost,,,,,,,
+Stacking,,,,,,,
