@@ -4,6 +4,7 @@ This folder contains selected visualizations and evaluation figures from the str
 
 Figures may include:
 
+- Project workflow
 - Model performance comparison
 - Confusion matrix
 - ROC curve
