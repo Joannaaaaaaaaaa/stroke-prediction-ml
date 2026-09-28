@@ -12,6 +12,12 @@ The project covers data preprocessing, exploratory data analysis, model training
 
 ![Project Workflow](figures/project_workflow.jpg)
 
+## Hyperparameter Optimization
+
+A staged hyperparameter search strategy was applied using Optuna to progressively refine the searching space and improve model performance.
+
+![Hyperparameter Search Strategy](figures/hyperparameter_search_strategy.jpg)
+
 ## Tech Stack
 
 - Python
