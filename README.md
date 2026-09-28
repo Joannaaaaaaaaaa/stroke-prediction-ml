@@ -14,6 +14,13 @@ The project uses the Stroke Prediction Dataset from Kaggle, containing 5,110 rec
 
 The prediction task is formulated as a binary classification problem to identify whether a patient has experienced a stroke.
 
+## Data Preprocessing
+
+- Missing BMI value replacement
+- One-hot encoding for categorical features
+- Feature standardization
+- SMOTE for class imbalance handling
+
 ## Project Workflow
 
 ![Project Workflow](figures/project_workflow.jpg)
@@ -39,7 +46,7 @@ Optuna was used for hyperparameter optimization. A staged search strategy was ap
 
 ## Results
 
-The optimized stacking ensemble achieved strong predictive performance, with an accuracy of 98.10%, recall of 97.12%, MCC of 96.21%, and AUC of 0.9979.
+The optimized stacking ensemble achieved an accuracy of 98.10%, recall of 97.12%, MCC of 96.21%, and AUC of 0.9979.
 
 Detailed evaluation results are available in the `results/` directory.
 
@@ -58,7 +65,8 @@ stroke-risk-prediction/
 │   ├── README.md
 │   └── model_performance.csv
 └── docs/
-    └── README.md
+│   ├── README.md
+    └── methodology.md
 ```
 
 - `figures/` contains selected workflow and evaluation visualizations.
