@@ -67,7 +67,7 @@ To address this issue, the Synthetic Minority Over-sampling Technique (SMOTE) wa
 The class distribution before and after SMOTE is shown in the figure below.
 
 <p align="center">
-  <img src="../figures/smote_class_distribution.png">
+  <img src="../figures/smote_class_distribution.png" width="650">
 </p>
 
 ---
@@ -107,7 +107,7 @@ This resulted in an approximate final data split of:
 The resulting class distribution across the training, validation, and testing sets is shown below.
 
 <p align="center">
-  <img src="../figures/data_split_distribution.png">
+  <img src="../figures/data_split_distribution.png" width="650">
 </p>
 
 The balanced distribution across the three subsets reflects the class balancing procedure applied prior to model development.
