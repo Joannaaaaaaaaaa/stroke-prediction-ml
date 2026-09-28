@@ -8,6 +8,10 @@ This project develops a machine learning-based framework for stroke risk predict
 
 The project covers data preprocessing, exploratory data analysis, model training, stacking ensemble learning, and hyperparameter optimization.
 
+## Project Workflow
+
+![Project Workflow](figures/project_workflow.png)
+
 ## Tech Stack
 
 - Python
