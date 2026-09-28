@@ -59,8 +59,8 @@ stroke-risk-prediction/
 │   └── model_performance.csv
 └── docs/
     └── README.md
+```
 
-```markdown
 - `figures/` contains selected workflow and evaluation visualizations.
 - `results/` contains summarized model evaluation results.
 - `docs/` contains supplementary project documentation.
@@ -71,7 +71,6 @@ stroke-risk-prediction/
 - Pandas
 - NumPy
 - Scikit-learn
-- SMOTE
 - XGBoost
 - Optuna
 - Matplotlib
