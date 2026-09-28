@@ -43,6 +43,28 @@ The optimized stacking ensemble achieved strong predictive performance, with an 
 
 Detailed evaluation results are available in the `results/` directory.
 
+## Repository Structure
+
+```text
+stroke-risk-prediction/
+│
+├── README.md
+├── .gitignore
+├── figures/
+│   ├── README.md
+│   ├── project_workflow.png
+│   └── hyperparameter_search_strategy.png
+├── results/
+│   ├── README.md
+│   └── model_performance.csv
+└── docs/
+    └── README.md
+
+```markdown
+- `figures/` contains selected workflow and evaluation visualizations.
+- `results/` contains summarized model evaluation results.
+- `docs/` contains supplementary project documentation.
+
 ## Tech Stack
 
 - Python
