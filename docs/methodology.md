@@ -197,7 +197,6 @@ Model performance was evaluated using:
 - F1-score
 - Specificity
 - Matthews Correlation Coefficient (MCC)
-- ROC
 - AUC
 
 ---
