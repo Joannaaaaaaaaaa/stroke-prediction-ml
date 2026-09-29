@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-score,Specificity,MCC,AUC
+Optimized_KNN,95.83%,94.42%,97.34%,95.90%,94.23%,91.71%,0.9794
+Optimized_SVM,94.75%,95.60%,93.82%,94.70%,95.67%,89.52%,0.9834
+Optimized_Decision Tree,94.70%,94.56%,94.86%,94.71%,94.54%,89.40%,0.9658
+Optimized_Random Forest,97.89%,99.47%,96.30%,97.86%,99.49%,95.83%,0.9952
+Optimized_XGBoost,97.07%,97.31%,96.81%,97.06%,97.33%,94.14%,0.9943
+Final_Stacking,98.10%,99.06%,97.12%,98.08%,99.07%,96.21%,0.9979
