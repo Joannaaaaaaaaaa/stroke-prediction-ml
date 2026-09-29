@@ -70,7 +70,8 @@ stroke-risk-prediction/
 │   └── smote_class_distribution.png
 ├── results/
 │   ├── README.md
-│   └── model_performance.csv
+│   ├── baseline_model_performance.csv
+│   └── optimized_and_stacking_performance.csv
 └── docs/
 │   ├── README.md
 │   ├── eda.md
