@@ -53,7 +53,7 @@ Detailed evaluation results are available in the `results/` directory.
 ## Repository Structure
 
 ```text
-stroke-risk-prediction/
+stroke-prediction-ml/
 │
 ├── README.md
 ├── .gitignore
@@ -73,9 +73,9 @@ stroke-risk-prediction/
 │   ├── baseline_model_performance.csv
 │   └── optimized_and_stacking_performance.csv
 └── docs/
-│   ├── README.md
-│   ├── eda.md
-│   └── methodology.md
+    ├── README.md
+    ├── eda.md
+    └── methodology.md
 ```
 
 - `figures/` contains selected workflow and evaluation visualizations.
