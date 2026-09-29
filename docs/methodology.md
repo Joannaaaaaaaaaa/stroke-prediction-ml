@@ -189,7 +189,7 @@ The hyperparameters of the stacking ensemble were jointly optimized using Optuna
 
 ## 8. Model Evaluation
 
-Model performance was evaluated using the following classification metrics:
+Model performance was evaluated using:
 
 - Accuracy
 - Precision
@@ -197,7 +197,8 @@ Model performance was evaluated using the following classification metrics:
 - F1-score
 - Specificity
 - Matthews Correlation Coefficient (MCC)
-- ROC AUC
+- ROC
+- AUC
 
 ---
 
