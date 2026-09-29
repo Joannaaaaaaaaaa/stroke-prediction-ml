@@ -79,6 +79,7 @@ stroke-risk-prediction/
 - Pandas
 - NumPy
 - Scikit-learn
+- Imbalanced-learn
 - XGBoost
 - Optuna
 - Matplotlib
