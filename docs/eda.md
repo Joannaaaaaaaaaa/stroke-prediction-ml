@@ -39,7 +39,7 @@ The categorical feature distributions showed several notable patterns:
 - Smoking status contained an `Unknown` category, indicating incomplete smoking information for some individuals.
 
 <p align="center">
-  <img src="../figures/feature_distribution.png" width="650">
+  <img src="../figures/feature_distribution.png">
 </p>
 
 ---
@@ -142,7 +142,7 @@ Among the examined features, age showed the highest positive correlation with st
 Age therefore showed the strongest linear relationship with stroke among the analyzed features, while BMI and residence type showed relatively weak correlations.
 
 <p align="center">
-  <img src="../figures/correlation_matrix.png" "width = 600">
+  <img src="../figures/correlation_matrix.png" width="600">
 </p>
 
 ---
