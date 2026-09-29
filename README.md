@@ -59,14 +59,22 @@ stroke-risk-prediction/
 ├── .gitignore
 ├── figures/
 │   ├── README.md
-│   ├── project_workflow.png
-│   └── hyperparameter_search_strategy.png
+│   ├── categorical_features_stroke.png
+│   ├── continuous_features_stroke.png
+│   ├── correlation_matrix.png
+│   ├── data_split_distribution.png
+│   ├── feature_distribution.png
+│   ├── final_stacking_confusion_matrix.png
+│   ├── hyperparameter_search_strategy.jpg
+│   ├── project_workflow.jpg
+│   └── smote_class_distribution.png
 ├── results/
 │   ├── README.md
 │   └── model_performance.csv
 └── docs/
 │   ├── README.md
-    └── methodology.md
+│   ├── eda.md
+│   └── methodology.md
 ```
 
 - `figures/` contains selected workflow and evaluation visualizations.
