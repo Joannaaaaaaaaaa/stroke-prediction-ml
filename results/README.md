@@ -44,7 +44,7 @@ The final stacking model achieved:
 The confusion matrix shows that the final stacking model correctly classified most stroke and non-stroke cases, with relatively few false positives and false negatives.
 
 <p align="center">
-  <img src="../figures/final_stacking_confusion_matrix.png" width="600">
+  <img src="../figures/final_stacking_confusion_matrix.png" width="400">
 </p>
 
 ## Evaluation Metrics
