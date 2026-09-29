@@ -8,6 +8,14 @@ This project develops a machine learning-based framework for stroke risk predict
 
 The project covers data preprocessing, exploratory data analysis, model training, stacking ensemble learning, and hyperparameter optimization.
 
+## Why This Project
+
+Stroke remains a major global health challenge. According to the World Health Organization, stroke was the third leading cause of death worldwide in 2021 and is also a major contributor to long-term disability.
+
+This topic is also personally meaningful to me, as several of my family members experienced strokes unexpectedly. These experiences motivated me to explore whether machine learning could help identify individuals at higher risk before stroke occurs.
+
+The World Stroke Organization reports that up to 90% of strokes may be preventable by addressing modifiable risk factors. This motivated the development of a predictive framework that aims to support early risk identification, preventive healthcare, and clinical decision-making.
+
 ## Dataset
 
 The project uses the Stroke Prediction Dataset from Kaggle, containing 5,110 records with demographic, medical, and lifestyle-related features.
