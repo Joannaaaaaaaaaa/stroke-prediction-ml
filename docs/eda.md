@@ -39,7 +39,7 @@ The categorical feature distributions showed several notable patterns:
 - Smoking status contained an `Unknown` category, indicating incomplete smoking information for some individuals.
 
 <p align="center">
-  <img src="../figures/feature_distribution.png"  width="700">
+  <img src="../figures/feature_distribution.png"  width="850">
 </p>
 
 ---
