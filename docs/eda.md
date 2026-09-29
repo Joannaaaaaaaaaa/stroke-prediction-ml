@@ -71,7 +71,7 @@ BMI showed less separation between stroke and non-stroke groups.
 The medians and interquartile ranges of both groups were similar and substantially overlapped. Compared with age and average glucose level, BMI demonstrated a weaker relationship with stroke when examined independently.
 
 <p align="center">
-  <img src="../figures/continuous_features_stroke.png">
+  <img src="../figures/continuous_features_stroke.png"  width="700">
 </p>
 
 ---
@@ -121,7 +121,7 @@ Individuals with heart disease had a stroke rate of approximately 17.0%, compare
 Among the examined categorical features, hypertension and heart disease showed particularly clear differences in stroke occurrence.
 
 <p align="center">
-  <img src="../figures/categorical_features_stroke.jpg">
+  <img src="../figures/categorical_features_stroke.png"  width="650">
 </p>
 
 ---
